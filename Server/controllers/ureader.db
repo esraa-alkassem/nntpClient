@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS a_USENET (
+    agroup TEXT,
+    id_mes TEXT,
+    fm TEXT,
+    sub TEXT,
+    ref TEXT,
+    body TEXT,
+    bytes TEXT,
+    lines TEXT,
+    n_mes TEXT,
+    d_mes TEXT,
+    i_mes TEXT
+);
